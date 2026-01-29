@@ -1,1 +1,1 @@
-console.log("Servidor Online");
+console.log("Servidor Online e Atualizado! By Juan Dev");
